@@ -86,6 +86,32 @@
           ]
         }
       ]
+    },
+    {
+      "GlobalData": {
+        "ProjectId": "db6d989d-deb0-46e9-b37d-c1f3bd140436",
+        "ProjectName": "Enact_Postgres_Demo",
+        "DBTypeName": "PostgreSQL",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 1,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "berkeoz",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null
     }
   ],
   "GlobalConfigurations": null
